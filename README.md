@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there! I am Navaneeth)](https://git.io/typing-svg)
 <!--
 **vnavaneeth10/vnavaneeth10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
