@@ -9,6 +9,7 @@
    
       -🔭 I’m currently working with Amazon with their Retail Buisness team.
       -🌱 I’m currently learning MERN Stack.
+      -💻 Building projects 
       -💼 I'm open to freelancing projects.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
