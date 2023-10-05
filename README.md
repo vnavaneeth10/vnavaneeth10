@@ -15,6 +15,7 @@
 
 🔗 Let's Connect
 
-   <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=%230A66C2&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnavaneeth-v-3bb360111%2F">
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+   
 
     
