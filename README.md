@@ -3,17 +3,15 @@
 
 <a href="https://www.buymeacoffee.com/vnavaneeth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚡ A quick introduction
-   Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+   
+      -🔭 I’m currently working with Amazon with their Retail Buisness team.
+      -🌱 I’m currently learning MERN Stack.
+      -💼 I'm open to freelancing projects.
 
--OR-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-          🔭 I’m currently working with at Oracle with their AI Apps team.
+🔗 Let's Connect
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-v-3bb360111/)
