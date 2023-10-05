@@ -21,3 +21,12 @@
 
     
 ![GitHub](https://img.shields.io/badge/Github-black?style=flat-square&logo=%23181717&logoColor=white&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fvnavaneeth10)
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🗃 Languages, Frameworks
+
+
+   <p float="left"><img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/><img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/><!-- and more such images with different URLs in src --></p>
