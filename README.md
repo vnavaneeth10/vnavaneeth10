@@ -20,4 +20,4 @@
    
 
     
-<img alt="Static Badge" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=%23181717&logoColor=white&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fvnavaneeth10">
+![GitHub](https://img.shields.io/badge/Github-black?style=flat-square&logo=%23181717&logoColor=white&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fvnavaneeth10)
