@@ -35,6 +35,4 @@
 
 
 
-
-
-![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnavaneeth&show_icons=true&theme=radical)
+![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnavaneeth&show_icons=true&theme=gruvbox)
