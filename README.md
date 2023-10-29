@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vnavaneeth10](https://github.com/vnavaneeth10)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React.js,CSS,HTML,Javascript**
 
 - 📫 How to reach me **navaneethnair69@gmail.com**
 
