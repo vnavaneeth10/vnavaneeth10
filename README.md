@@ -8,6 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnavaneeth10&label=Profile%20views&color=0e75b6&style=flat" alt="vnavaneeth10" /> </p>
 
+
 # 💫 About Me:
 🚀 **Passionate Engineer | Lifelong Learner | Tech Enthusiast**  
 
@@ -18,6 +19,7 @@ I thrive on continuous learning and pushing beyond my comfort zone to explore ne
 I believe in the power of teamwork, creativity, and adaptability to build impactful solutions. Always eager to expand my skill set, connect with like-minded professionals, and contribute to meaningful projects.  
 
 Let's connect and create something amazing! ✨
+
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnavaneeth10" alt="vnavaneeth10" /></a> </p>-->
 
@@ -62,7 +64,7 @@ Let's connect and create something amazing! ✨
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vnavaneeth10&limit=5&theme=react&combine_all_yearly_contributions=true)
 
------
+
 
 <!--![Snake animation](https://github.com/vnavaneeth10/vnavaneeth10/blob/output/github-contribution-grid-snake.svg)-->
 
