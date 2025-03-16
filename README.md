@@ -1,19 +1,18 @@
-
-
 <div align="center">
-  <img height="288" src="https://github.com/vnavaneeth10/vnavaneeth10/blob/main/assets/Animation%20-%201742118985716.gif"  />
+  <img height="288" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Navaneeth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Navaneeth V
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="30px"></h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnavaneeth10&label=Profile%20views&color=0e75b6&style=flat" alt="vnavaneeth10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnavaneeth10" alt="vnavaneeth10" /></a> </p>
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-000?style=flat&logo=LeetCode&logoColor=FFA116)
+<!--![LeetCode Badge](https://img.shields.io/badge/LeetCode-000?style=flat&logo=LeetCode&logoColor=FFA116)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/navaneethnair69?theme=dark&font=Montserrat&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/navaneethnair69?theme=dark&font=Montserrat&ext=heatmap)-->
 
 
 
