@@ -64,7 +64,7 @@ Let's connect and create something amazing! ✨
 
 -----
 
-![Snake animation](https://github.com/vnavaneeth10/vnavaneeth10/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/vnavaneeth10/vnavaneeth10/blob/output/github-contribution-grid-snake.svg)-->
 
 -----
 
