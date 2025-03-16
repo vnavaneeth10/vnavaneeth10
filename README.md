@@ -1,9 +1,19 @@
+![Front-end Developer Banner](https://your-image-url.com/banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Navaneeth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnavaneeth10&label=Profile%20views&color=0e75b6&style=flat" alt="vnavaneeth10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vnavaneeth10" alt="vnavaneeth10" /></a> </p>
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-000?style=flat&logo=LeetCode&logoColor=FFA116)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/navaneethnair69?theme=dark&font=Montserrat&ext=heatmap)
+
+
+
 
 - 🌱 I’m currently learning **React.js,Node.js,Express.js**
 
