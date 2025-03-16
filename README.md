@@ -1,5 +1,8 @@
-![Front-end Developer Banner](https://your-image-url.com/banner.png)
 
+
+<div align="center">
+  <img height="288" src="https://github.com/vnavaneeth10/vnavaneeth10/blob/main/assets/Animation%20-%201742118985716.gif"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Navaneeth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
