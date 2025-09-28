@@ -2,7 +2,7 @@
   <img height="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
 </div>
 
-<h1 align="center">Hi, I'm <Navaneeth V/>
+<h1 align="center">Hi, I'm &lt;Navaneeth V
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
